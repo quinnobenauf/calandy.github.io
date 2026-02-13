@@ -4,7 +4,7 @@
     "items": [
         {
             "version": "0.0.12",
-            "shortVersion": 1,
+            "shortVersion": 2,
             "changes": [
                 {
                     "type": "chore",
@@ -25,7 +25,7 @@
         },
         {
             "version": "0.0.12",
-            "shortVersion": 1,
+            "shortVersion": 2,
             "changes": [
                 {
                     "type": "chore",
