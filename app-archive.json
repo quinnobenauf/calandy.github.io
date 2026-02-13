@@ -3,8 +3,8 @@
     "description": "This is my app description",
     "items": [
         {
-            "version": "0.1.8",
-            "shortVersion": 9,
+            "version": "0.0.12",
+            "shortVersion": 1,
             "changes": [
                 {
                     "type": "chore",
@@ -18,14 +18,14 @@
                     "message": "Add new feature #2"
                 }
             ],
-            "date": "2025-01-10",
+            "date": "2025-02-13",
             "mandatory": true,
-            "url": "https://www.yourwebsite.com/archive/desktop_updater/0.1.8%2B9-windows",
+            "url": "https://github.com/quinnobenauf/calandy.github.io/blob/master/releases/0.0.12/calandy_setup.exe",
             "platform": "windows"
         },
         {
-            "version": "0.1.7",
-            "shortVersion": 8,
+            "version": "0.0.12",
+            "shortVersion": 1,
             "changes": [
                 {
                     "type": "chore",
@@ -39,9 +39,9 @@
                     "message": "Add new feature #2"
                 }
             ],
-            "date": "2025-01-10",
+            "date": "2025-02-13",
             "mandatory": true,
-            "url": ""https://www.yourwebsite.com/archive/desktop_updater/0.1.6%2B7-macos",
+            "url": "https://github.com/quinnobenauf/calandy.github.io/blob/master/releases/0.0.12/calandy.dmg",
             "platform": "macos"
         }
     ]
